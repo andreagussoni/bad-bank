@@ -1,3 +1,5 @@
+# Final project of the frontend module developed during the MIT professional course on Full stck development with MERN.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
