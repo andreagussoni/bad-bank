@@ -1,4 +1,5 @@
-# Final project of the frontend module developed during the MIT professional course on Full stck development with MERN.
+# Final project of the frontend module developed during the MIT professional course on Full satck development with MERN.
+Banking application developed with React framework and deployed on AWS: (http://andrea-gussonibankingapplication.s3-website-us-east-1.amazonaws.com/#/)
 
 # Getting Started with Create React App
 
